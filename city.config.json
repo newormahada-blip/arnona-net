@@ -1,0 +1,31 @@
+{
+  "_comment": "Placeholder values. Run installer/new-city.mjs to write the real ones for a city (see installer/README.md).",
+  "city": {
+    "nameHe": "עיר לדוגמה",
+    "nameEn": "Example City",
+    "osmCityPattern": "עיר לדוגמה|example city"
+  },
+  "org": {
+    "municipalityHe": "עיריית עיר לדוגמה",
+    "departmentHe": "אגף הארנונה"
+  },
+  "map": {
+    "center": {
+      "lat": 32.0853,
+      "lon": 34.7818
+    },
+    "bounds": {
+      "south": 32.03,
+      "north": 32.15,
+      "west": 34.74,
+      "east": 34.86
+    }
+  },
+  "supabase": {
+    "url": "https://your-project.supabase.co",
+    "anonKey": "replace-with-anon-key"
+  },
+  "deploy": {
+    "basePath": "/arnona-net"
+  }
+}

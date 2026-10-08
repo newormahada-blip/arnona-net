@@ -1,0 +1,10 @@
+{
+  "_comment": "Closed list of the city's neighborhoods (valid values for Business.neighborhood), with aliases and values to clear. Written by installer/new-city.mjs --neighborhoods; review it with the municipality.",
+  "neighborhoods": [],
+  "aliases": {},
+  "clearValues": [
+    "לא ידוע",
+    "לא ידועה",
+    "-"
+  ]
+}
